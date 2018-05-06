@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+marianodigabriele.com	TRUE	/	FALSE	1999999999	PHPSESSID	t6llflijs9li5uitmb0htoqjb7
+marianodigabriele.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+marianodigabriele.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	701d5b0e2cccb7ee7c4a36c9ffec4b7b
+marianodigabriele.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_785d5fee705982bc58d775809339dff3	3a200d8d6e6530e6def304a25590d5ba%7C%7C1525788402%7C%7C1525784802%7C%7Cc4aec19fad105a54c764ebdf3010b7dc
+

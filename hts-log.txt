@@ -1,0 +1,207 @@
+HTTrack3.49-2 launched on Sun, 06 May 2018 09:58:59 at http://marianodigabriele.com/
+(winhttrack http://marianodigabriele.com/ -O "/Users/xbw881/websites/mariano" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:01:33	Error: 	"Method Not Allowed" (405) at link marianodigabriele.com/xmlrpc.php (from marianodigabriele.com/)
+10:11:07	Warning: 	Found for marianodigabriele.com/?page_id=2768
+10:11:07	Warning: 	File has moved from marianodigabriele.com/?page_id=2768 to http://marianodigabriele.com/?page_id=2762
+10:11:45	Warning: 	File not parsed, looks like binary: marianodigabriele.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+10:11:45	Warning: 	File not parsed, looks like binary: marianodigabriele.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+10:11:45	Error: 	"Not Found" (404) at link marianodigabriele.com/wp-content/themes/the-core-parent/fonts/glyphicons-halflings-regular.eot (from marianodigabriele.com/wp-content/themes/the-core-parent/css/bootstrap.css?ver=1.0.23)
+10:11:45	Error: 	"Not Found" (404) at link marianodigabriele.com/wp-content/themes/the-core-parent/fonts/glyphicons-halflings-regular.eot? (from marianodigabriele.com/wp-content/themes/the-core-parent/css/bootstrap.css?ver=1.0.23)
+10:11:45	Error: 	"Not Found" (404) at link marianodigabriele.com/wp-content/themes/the-core-parent/fonts/glyphicons-halflings-regular.woff (from marianodigabriele.com/wp-content/themes/the-core-parent/css/bootstrap.css?ver=1.0.23)
+10:11:45	Error: 	"Not Found" (404) at link marianodigabriele.com/wp-content/themes/the-core-parent/fonts/glyphicons-halflings-regular.ttf (from marianodigabriele.com/wp-content/themes/the-core-parent/css/bootstrap.css?ver=1.0.23)
+10:11:45	Error: 	"Not Found" (404) at link marianodigabriele.com/wp-content/themes/the-core-parent/fonts/glyphicons-halflings-regular.svg (from marianodigabriele.com/wp-content/themes/the-core-parent/css/bootstrap.css?ver=1.0.23)
+10:11:45	Warning: 	Moved Permanently for marianodigabriele.com/?p=3071
+10:11:45	Warning: 	File has moved from marianodigabriele.com/?p=3071 to http://marianodigabriele.com/?page_id=3071
+10:12:04	Warning: 	Moved Permanently for marianodigabriele.com/?p=3074
+10:12:04	Warning: 	File has moved from marianodigabriele.com/?p=3074 to http://marianodigabriele.com/?page_id=3074
+10:12:17	Warning: 	Moved Permanently for marianodigabriele.com/?p=3379
+10:12:17	Warning: 	File has moved from marianodigabriele.com/?p=3379 to http://marianodigabriele.com/?page_id=3379
+10:12:17	Error: 	"Not Found" (404) at link marianodigabriele.com/product/oregon-ducks-jersey/ (from marianodigabriele.com/?page_id=3379)
+10:12:17	Error: 	"Not Found" (404) at link marianodigabriele.com/product/cal-bears-nike-jersey/ (from marianodigabriele.com/?page_id=3379)
+10:12:17	Error: 	"Not Found" (404) at link marianodigabriele.com/product/washed-petit-jeans/ (from marianodigabriele.com/?page_id=3379)
+10:14:07	Warning: 	Moved Permanently for marianodigabriele.com/?p=3545
+10:14:07	Warning: 	File has moved from marianodigabriele.com/?p=3545 to http://marianodigabriele.com/?page_id=3545
+10:14:09	Error: 	"Not Found" (404) at link marianodigabriele.com/portfolio-page/3-columns/ (from marianodigabriele.com/?page_id=3545)
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=3555
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=3555 to http://marianodigabriele.com/?page_id=3555
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=3563
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=3563 to http://marianodigabriele.com/?page_id=3563
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=3566
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=3566 to http://marianodigabriele.com/?page_id=3566
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=2834
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=2834 to http://marianodigabriele.com/?page_id=2834
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=2935
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=2935 to http://marianodigabriele.com/?page_id=2935
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=10
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=10 to http://marianodigabriele.com/?page_id=10
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1076
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1076 to http://marianodigabriele.com/?page_id=1076
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=14
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=14 to http://marianodigabriele.com/?page_id=14
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=16
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=16 to http://marianodigabriele.com/?page_id=16
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1650
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1650 to http://marianodigabriele.com/?page_id=1650
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=4467
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=4467 to http://marianodigabriele.com/?page_id=4467
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=4573
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=4573 to http://marianodigabriele.com/?page_id=4573
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=858
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=858 to http://marianodigabriele.com/?page_id=858
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1000
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1000 to http://marianodigabriele.com/?page_id=1000
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1008
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1008 to http://marianodigabriele.com/?page_id=1008
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1014
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1014 to http://marianodigabriele.com/?page_id=1014
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1028
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1028 to http://marianodigabriele.com/?page_id=1028
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1035
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1035 to http://marianodigabriele.com/?page_id=1035
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1054
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1054 to http://marianodigabriele.com/?page_id=1054
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1048
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1048 to http://marianodigabriele.com/?page_id=1048
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1051
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1051 to http://marianodigabriele.com/?page_id=1051
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=916
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=916 to http://marianodigabriele.com/?fw-portfolio=the-flavour&feed=rss2
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=916
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=916 to http://marianodigabriele.com/?fw-portfolio=the-flavour
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1112
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1112 to http://marianodigabriele.com/?page_id=1112
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1256
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1256 to http://marianodigabriele.com/?page_id=1256
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1432
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1432 to http://marianodigabriele.com/?page_id=1432
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1624
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1624 to http://marianodigabriele.com/?page_id=1624
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1690
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1690 to http://marianodigabriele.com/?page_id=1690
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=1919
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=1919 to http://marianodigabriele.com/?page_id=1919
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=2122
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=2122 to http://marianodigabriele.com/?page_id=2122
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=2075
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=2075 to http://marianodigabriele.com/?page_id=2075
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=2050
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=2050 to http://marianodigabriele.com/?page_id=2050
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=2236
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=2236 to http://marianodigabriele.com/?page_id=2236
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=2351
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=2351 to http://marianodigabriele.com/?page_id=2351
+10:14:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=2412
+10:14:09	Warning: 	File has moved from marianodigabriele.com/?p=2412 to http://marianodigabriele.com/?page_id=2412
+10:15:55	Warning: 	Moved Permanently for marianodigabriele.com/?p=2998
+10:15:55	Warning: 	File has moved from marianodigabriele.com/?p=2998 to http://marianodigabriele.com/?page_id=2998
+10:15:55	Warning: 	Moved Permanently for marianodigabriele.com/?p=3013
+10:15:55	Warning: 	File has moved from marianodigabriele.com/?p=3013 to http://marianodigabriele.com/?page_id=3013
+10:16:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=12
+10:16:09	Warning: 	File has moved from marianodigabriele.com/?p=12 to http://marianodigabriele.com/?page_id=12
+10:16:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=2762
+10:16:09	Warning: 	File has moved from marianodigabriele.com/?p=2762 to http://marianodigabriele.com/?page_id=2762
+10:16:09	Warning: 	Found for marianodigabriele.com/?page_id=20
+10:16:09	Warning: 	File has moved from marianodigabriele.com/?page_id=20 to http://marianodigabriele.com/?post_type=product
+10:16:09	Warning: 	Moved Permanently for marianodigabriele.com/?p=2771
+10:16:09	Warning: 	File has moved from marianodigabriele.com/?p=2771 to http://marianodigabriele.com/?page_id=2771
+10:16:11	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=930
+10:16:11	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=930 to http://marianodigabriele.com/?fw-portfolio=auto-trader&feed=rss2
+10:16:11	Warning: 	Moved Permanently for marianodigabriele.com/?p=930
+10:16:11	Warning: 	File has moved from marianodigabriele.com/?p=930 to http://marianodigabriele.com/?fw-portfolio=auto-trader
+10:16:11	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=929
+10:16:11	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=929 to http://marianodigabriele.com/?fw-portfolio=kiddo-turf&feed=rss2
+10:16:12	Warning: 	Moved Permanently for marianodigabriele.com/?p=929
+10:16:12	Warning: 	File has moved from marianodigabriele.com/?p=929 to http://marianodigabriele.com/?fw-portfolio=kiddo-turf
+10:16:12	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=925
+10:16:12	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=925 to http://marianodigabriele.com/?fw-portfolio=beat-heaven&feed=rss2
+10:16:12	Warning: 	Moved Permanently for marianodigabriele.com/?p=925
+10:16:12	Warning: 	File has moved from marianodigabriele.com/?p=925 to http://marianodigabriele.com/?fw-portfolio=beat-heaven
+10:16:12	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=915
+10:16:12	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=915 to http://marianodigabriele.com/?fw-portfolio=help-children&feed=rss2
+10:16:14	Warning: 	Moved Permanently for marianodigabriele.com/?p=915
+10:16:14	Warning: 	File has moved from marianodigabriele.com/?p=915 to http://marianodigabriele.com/?fw-portfolio=help-children
+10:16:14	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=913
+10:16:14	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=913 to http://marianodigabriele.com/?fw-portfolio=paradise-cove&feed=rss2
+10:16:14	Warning: 	Moved Permanently for marianodigabriele.com/?p=913
+10:16:14	Warning: 	File has moved from marianodigabriele.com/?p=913 to http://marianodigabriele.com/?fw-portfolio=paradise-cove
+10:16:14	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=912
+10:16:14	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=912 to http://marianodigabriele.com/?fw-portfolio=michael-cruz&feed=rss2
+10:16:16	Warning: 	Moved Permanently for marianodigabriele.com/?p=912
+10:16:16	Warning: 	File has moved from marianodigabriele.com/?p=912 to http://marianodigabriele.com/?fw-portfolio=michael-cruz
+10:16:16	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=911
+10:16:16	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=911 to http://marianodigabriele.com/?fw-portfolio=freelancer&feed=rss2
+10:16:16	Warning: 	Moved Permanently for marianodigabriele.com/?p=911
+10:16:16	Warning: 	File has moved from marianodigabriele.com/?p=911 to http://marianodigabriele.com/?fw-portfolio=freelancer
+10:16:16	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=22
+10:16:16	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=22 to http://marianodigabriele.com/?fw-portfolio=portfolio&feed=rss2
+10:16:18	Warning: 	Moved Permanently for marianodigabriele.com/?p=22
+10:16:18	Warning: 	File has moved from marianodigabriele.com/?p=22 to http://marianodigabriele.com/?fw-portfolio=portfolio
+10:16:18	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=2755
+10:16:18	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=2755 to http://marianodigabriele.com/?product=texas-longhorns-hat&feed=rss2
+10:16:20	Warning: 	Moved Permanently for marianodigabriele.com/?p=2755
+10:16:20	Warning: 	File has moved from marianodigabriele.com/?p=2755 to http://marianodigabriele.com/?product=texas-longhorns-hat
+10:16:32	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=2750
+10:16:32	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=2750 to http://marianodigabriele.com/?product=oregon-ducks-jersey&feed=rss2
+10:16:33	Warning: 	Moved Permanently for marianodigabriele.com/?p=2750
+10:16:33	Warning: 	File has moved from marianodigabriele.com/?p=2750 to http://marianodigabriele.com/?product=oregon-ducks-jersey
+10:16:39	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=2745
+10:16:39	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=2745 to http://marianodigabriele.com/?product=arizona-cats-t-shirt&feed=rss2
+10:16:40	Warning: 	Moved Permanently for marianodigabriele.com/?p=2745
+10:16:40	Warning: 	File has moved from marianodigabriele.com/?p=2745 to http://marianodigabriele.com/?product=arizona-cats-t-shirt
+10:16:47	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=2740
+10:16:47	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=2740 to http://marianodigabriele.com/?product=montana-grizzlies-beanie&feed=rss2
+10:16:48	Warning: 	Moved Permanently for marianodigabriele.com/?p=2740
+10:16:48	Warning: 	File has moved from marianodigabriele.com/?p=2740 to http://marianodigabriele.com/?product=montana-grizzlies-beanie
+10:16:50	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=2735
+10:16:50	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=2735 to http://marianodigabriele.com/?product=cal-bears-nike-jersey&feed=rss2
+10:16:51	Warning: 	Moved Permanently for marianodigabriele.com/?p=2735
+10:16:51	Warning: 	File has moved from marianodigabriele.com/?p=2735 to http://marianodigabriele.com/?product=cal-bears-nike-jersey
+10:16:52	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=2730
+10:16:52	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=2730 to http://marianodigabriele.com/?product=brown-bears-hoodie&feed=rss2
+10:16:52	Warning: 	Moved Permanently for marianodigabriele.com/?p=2730
+10:16:52	Warning: 	File has moved from marianodigabriele.com/?p=2730 to http://marianodigabriele.com/?product=brown-bears-hoodie
+10:16:52	Warning: 	Moved Permanently for marianodigabriele.com/?feed=rss2&p=2713
+10:16:52	Warning: 	File has moved from marianodigabriele.com/?feed=rss2&p=2713 to http://marianodigabriele.com/?product=washed-petit-jeans&feed=rss2
+10:16:53	Warning: 	Moved Permanently for marianodigabriele.com/?p=2713
+10:16:53	Warning: 	File has moved from marianodigabriele.com/?p=2713 to http://marianodigabriele.com/?product=washed-petit-jeans
+10:16:53	Warning: 	Found for marianodigabriele.com/?fw-portfolio=the-flavour%26feed=rss2
+10:16:53	Warning: 	File has moved from marianodigabriele.com/?fw-portfolio=the-flavour%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:02	Warning: 	Found for marianodigabriele.com/?fw-portfolio=auto-trader%26feed=rss2
+10:17:02	Warning: 	File has moved from marianodigabriele.com/?fw-portfolio=auto-trader%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:03	Warning: 	Found for marianodigabriele.com/?fw-portfolio=kiddo-turf%26feed=rss2
+10:17:03	Warning: 	File has moved from marianodigabriele.com/?fw-portfolio=kiddo-turf%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:04	Warning: 	Found for marianodigabriele.com/?fw-portfolio=beat-heaven%26feed=rss2
+10:17:04	Warning: 	File has moved from marianodigabriele.com/?fw-portfolio=beat-heaven%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:05	Warning: 	Found for marianodigabriele.com/?fw-portfolio=help-children%26feed=rss2
+10:17:05	Warning: 	File has moved from marianodigabriele.com/?fw-portfolio=help-children%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?fw-portfolio=paradise-cove%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?fw-portfolio=paradise-cove%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?fw-portfolio=michael-cruz%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?fw-portfolio=michael-cruz%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?fw-portfolio=freelancer%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?fw-portfolio=freelancer%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?fw-portfolio=portfolio%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?fw-portfolio=portfolio%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?product=texas-longhorns-hat%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?product=texas-longhorns-hat%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?product=oregon-ducks-jersey%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?product=oregon-ducks-jersey%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?product=arizona-cats-t-shirt%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?product=arizona-cats-t-shirt%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?product=montana-grizzlies-beanie%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?product=montana-grizzlies-beanie%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?product=cal-bears-nike-jersey%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?product=cal-bears-nike-jersey%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?product=brown-bears-hoodie%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?product=brown-bears-hoodie%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+10:17:06	Warning: 	Found for marianodigabriele.com/?product=washed-petit-jeans%26feed=rss2
+10:17:06	Warning: 	File has moved from marianodigabriele.com/?product=washed-petit-jeans%26feed=rss2 to http://marianodigabriele.com/?page_id=1650
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 9 seconds : 912 links scanned, 809 files written (29138419 bytes overall) [15668786 bytes received at 14388 bytes/sec], 18436401 bytes transferred using HTTP compression in 438 files, ratio 23%, 24.0 requests per connection
+(10 errors, 186 warnings, 0 messages)
